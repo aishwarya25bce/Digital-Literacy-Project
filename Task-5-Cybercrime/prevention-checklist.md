@@ -6,11 +6,11 @@
 - Enable two-factor authentication (2FA)  
 - Avoid clicking on unknown or suspicious links  
 
-### 💰 UPI / Payment Safety
+###  UPI / Payment Safety
 - Never approve a UPI request unless you initiated it  
 - Do not scan unknown QR codes for receiving money  
 - Verify the sender before making any transaction  
 
-### 📢 Reporting Cybercrime
+###  Reporting Cybercrime
 - National Cyber Crime Portal: https://cybercrime.gov.in  
 - Helpline Number: 1930
